@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/nlw ia.png" style="border-radius:5%; width:200px"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/nlw ia.png" style="border-radius:5%; width:400px"/>
 
 NLW IA - Shorts Summary </h1>
 
