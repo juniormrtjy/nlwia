@@ -1,4 +1,4 @@
-# Shorts Summary
+# NLW IA - Shorts Summary
 
 ## Faça um resumo do seu vídeo favorito do shorts do YouTube com esta aplicação.
 
